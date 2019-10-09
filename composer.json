@@ -1,5 +1,5 @@
 {
     "name": "hawkca/components",
-    "type": "library",
+    "type": "craft-module",
     "require": {}
 }
